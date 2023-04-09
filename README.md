@@ -11,6 +11,6 @@ The view of point clouds of cube, Case A and Case B are (290,30), (45,10), and (
 
 The view of normal vector space distribution of cube, Case A and Case B are (110,30), (30,20), and (15,15), respectively.
 
-The k of cube, Case A and Case B are 50, 50, and 60, respectively.
+The k of cube, Case A and Case B are 50, 60, and 60, respectively.
 
 Note: The MATLAB version we use is R2022b
