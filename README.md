@@ -6,8 +6,6 @@ Double click DIUMMS.mlappinstall to install the DIUMMS app on MATLAB
 Then you can find the DIUMMS app at APP-My App on your MATLAB
 
 The Yingshan.rar is the point clouds used in the paper
-
-The sensor of point clouds of cube, Case A and Case B are (-0.2,0.1,-1.5), (10,1.1,2), and (0,-100,100), respectively
  
 The view of point clouds of cube, Case A and Case B are (290,30), (45,10), and (-20,10), respectively.
 
